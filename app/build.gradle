@@ -16,7 +16,7 @@ android {
         config {
             keyAlias 'vlads'
             keyPassword '13671367'
-            storeFile file('D:/proga/Tasks/KeyStorePath/android.jks')
+            storeFile file('D:/proga/yandex/Task1/KeyStorePath/android.jks')
             storePassword '13671367'
         }
     }
