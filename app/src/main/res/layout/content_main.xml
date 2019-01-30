@@ -12,7 +12,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Hello MDS!"
         app:autoSizeMaxTextSize="56dp"
         app:autoSizeMinTextSize="44dp"
         app:layout_constraintBottom_toBottomOf="parent"
